@@ -36,9 +36,6 @@ The data for this project was sourced from **[Inside Airbnb](https://insideairbn
 
 ## 🛠 Tech Stack
 - **Visualization:** Tableau  
-- **Data Processing:** Python (Pandas, NumPy)  
-- **Data Source:** Inside Airbnb dataset  
-
 ---
 
 ## 🎯 Insights & Impact
@@ -50,8 +47,7 @@ The data for this project was sourced from **[Inside Airbnb](https://insideairbn
 ---
 
 ## 📈 Project Dashboard  
-🚀 **View the interactive Tableau Dashboard**: [🔗 Add Tableau Public Link Here]  
+🚀 **View the interactive Tableau Dashboard**: [🔗 https://github.com/SejalDS/Airbnb-Data-Insights-using-Tableau/blob/main/Airbnb-Jersey%20City%20Dashboard-%20IST%20737%20VAD%20Group%206.twbx]  
 
 ---
 
-## 📂 Repository Structure
