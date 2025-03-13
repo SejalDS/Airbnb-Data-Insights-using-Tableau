@@ -15,19 +15,12 @@ This project presents an **interactive Tableau dashboard** analyzing Airbnb list
 ## 📌 Key Features
 ### 📊 **Dashboard 1 – Overview**
 - Provides **a summary of key Airbnb metrics**, including total properties, hosts, and pricing.
-- **Map visualizations** showcase **spatial distributions** of listings.
-- **Bar charts** analyze **average prices by room type**.
 
 ### 💰 **Dashboard 2 – Pricing Analysis**
 - Examines **pricing trends across neighborhoods and time periods**.
-- Identifies **seasonal fluctuations** in booking demand.
-- Uses **heatmaps to visualize daily & monthly pricing variations**.
 
 ### 🏠 **Dashboard 3 – Host Analysis**
 - Compares **Superhosts vs. Regular Hosts** based on performance metrics.
-- Highlights **top hosts, host verification status, and financial performance**.
-- **Pie & bar charts** showcase the role of different host types.
-
 ---
 
 ## 📊 Data Sources
